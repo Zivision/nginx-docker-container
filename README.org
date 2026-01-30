@@ -1,0 +1,3 @@
+#+title: Nginx Docker Container
+
+This is a project to learn docker deployment
